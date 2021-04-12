@@ -1,2 +1,9 @@
 # car_type_recognition
-car type recognition
+Car Type Recognition using FastAi
+
+4 Classes
+
+Convertable
+Pickup
+Sedan
+Station Wagon
