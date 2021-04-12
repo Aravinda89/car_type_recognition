@@ -2,7 +2,7 @@
 
 4 Classes
 
-Convertable
-Pickup
-Sedan
-Station Wagon
+* Convertable
+* Pickup
+* Sedan
+* Station Wagon
