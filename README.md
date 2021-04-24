@@ -1,6 +1,6 @@
-# Car Type Recognition using FastAi
+# Car Type Recognition 
 
-4 Classes
+Car Type classification model can classify 4 Classes
 
 * Convertable
 * Pickup
