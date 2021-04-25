@@ -9,4 +9,4 @@ Classifies 4 types of cars.
 * Sedan
 * Station Wagon
 
-
+![Alt Text](https://github.com/Aravinda89/car_type_recognition/blob/main/data_sample.png)
