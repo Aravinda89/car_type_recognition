@@ -3,6 +3,8 @@
  
 Fastai Car Type Classifier    
 https://car-type.herokuapp.com/
+![Alt Text](https://github.com/Aravinda89/car_type_recognition/blob/main/car_type.gif)
+
 
 Classifies 4 types of cars.
 * Convertible
